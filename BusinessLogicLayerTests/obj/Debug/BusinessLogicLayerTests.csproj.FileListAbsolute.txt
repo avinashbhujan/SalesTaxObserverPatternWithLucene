@@ -16,3 +16,5 @@ C:\Users\vbhujan\Documents\Visual Studio 2015\Projects\SalesTaxObserverPattern\B
 C:\Users\vbhujan\Documents\Visual Studio 2015\Projects\SalesTaxObserverPattern\BusinessLogicLayerTests\obj\Debug\BusinessLogicLayerTests.csprojResolveAssemblyReference.cache
 C:\Users\vbhujan\Documents\Visual Studio 2015\Projects\SalesTaxObserverPattern\BusinessLogicLayerTests\obj\Debug\BusinessLogicLayerTests.dll
 C:\Users\vbhujan\Documents\Visual Studio 2015\Projects\SalesTaxObserverPattern\BusinessLogicLayerTests\obj\Debug\BusinessLogicLayerTests.pdb
+C:\Users\vbhujan\Documents\Visual Studio 2015\Projects\SalesTaxObserverPattern\BusinessLogicLayerTests\bin\Debug\Moq.dll
+C:\Users\vbhujan\Documents\Visual Studio 2015\Projects\SalesTaxObserverPattern\BusinessLogicLayerTests\bin\Debug\Moq.xml

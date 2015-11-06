@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 
 namespace SalesTaxObserverPattern
@@ -9,7 +10,10 @@ namespace SalesTaxObserverPattern
 
         static void Main(string[] args)
         {
-            TransactionManager tm = new TransactionManager();
+            List<Observer> listOfObservers = new List<Observer>();
+            List<Product> listOfProducts = new List<Product>();
+
+            TransactionManager tm = new TransactionManager(listOfObservers, listOfProducts);
 
             ProductTotalizer transactionTotals =  new ProductTotalizer(tm);
 

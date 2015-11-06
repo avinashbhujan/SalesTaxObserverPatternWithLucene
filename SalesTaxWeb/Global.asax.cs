@@ -1,20 +1,9 @@
-﻿using Lucene.Net.Analysis;
-using Lucene.Net.Analysis.Standard;
-using Lucene.Net.Documents;
-using Lucene.Net.Index;
-using Lucene.Net.QueryParsers;
-using Lucene.Net.Search;
-using Lucene.Net.Store;
-using SalesTaxObserverPattern;
+﻿using SalesTaxObserverPattern;
 using System;
 using System.Collections.Generic;
-using System.IO;
-using System.Linq;
 using System.Web;
 using System.Web.Optimization;
 using System.Web.Routing;
-using System.Web.Security;
-using System.Web.SessionState;
 
 namespace SalesTaxWeb
 {
@@ -34,7 +23,7 @@ namespace SalesTaxWeb
 
         private void InitializeObserver()
         {
-            TransactionManager tmgr = new TransactionManager();
+            TransactionManager tmgr = new TransactionManager(new List<Observer>() ,new List<Product>());
             LuceneManager productIndexer = new LuceneManager(tmgr);
             ProductTotalizer productTotalizer = new ProductTotalizer(tmgr);
 

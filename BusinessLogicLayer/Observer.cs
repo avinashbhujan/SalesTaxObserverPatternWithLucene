@@ -10,6 +10,6 @@ namespace SalesTaxObserverPattern
     {
         public TransactionManager transactionManager;
 
-        public abstract void update();
+        public virtual void update() { }
     }
 }

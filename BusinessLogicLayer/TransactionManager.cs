@@ -8,23 +8,25 @@ namespace SalesTaxObserverPattern
 {
     public class TransactionManager
     {
-        private List<Observer> observers;
+        private IList<Observer> observers;
 
-        private List<Product> Products;
+        private List<Product> products;
 
         public List<Product> getProducts()
         {
-            return Products;
-        }
-        public TransactionManager()
-        {
-            observers = new List<Observer>();
-            Products = new List<Product>();
+            return products;
         }
 
-        public void setProducts(List<Product> Products)
+
+        public TransactionManager(IList<Observer> observers, List<Product> products)
         {
-            this.Products = Products;
+            this.observers = observers;
+            this.products = products;
+        }
+
+        public void setProducts(List<Product> products)
+        {
+            this.products = products;
             notifyAllObservers();
         }
 
@@ -45,7 +47,7 @@ namespace SalesTaxObserverPattern
         {
 
             string productOrigin;
-            string productName, productType = String.Empty;
+            string productName, productType = string.Empty;
             int numberOfProducts = 0;
             double productPrice = 0.0;
             string line;
@@ -65,7 +67,7 @@ namespace SalesTaxObserverPattern
 
                     productOrigin = "Local";
 
-                    numberOfProducts = Int32.Parse(productLine[0]);
+                    numberOfProducts = int.Parse(productLine[0]);
                     productLine.Remove(productLine[0]);
 
                     for (int i = 0; i < productLine.Count; i++)
@@ -122,7 +124,7 @@ namespace SalesTaxObserverPattern
                     productType = string.Empty;
                     lastItem = false;
 
-                    Products.Add(product);
+                    products.Add(product);
 
                 }
                 notifyAllObservers();
@@ -165,7 +167,7 @@ namespace SalesTaxObserverPattern
                 productOrigin = Console.ReadLine();
                 product.Origin = productOrigin;
 
-                Products.Add(product);
+                products.Add(product);
 
                 notifyAllObservers();
             }
