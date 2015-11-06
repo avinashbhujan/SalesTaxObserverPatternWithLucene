@@ -1,0 +1,1 @@
+C:\Users\vbhujan\Documents\Visual Studio 2013\Projects\SalesTaxObserverPattern\SalesTaxWeb.Tests\obj\Debug\SalesTaxWeb.Tests.csprojResolveAssemblyReference.cache

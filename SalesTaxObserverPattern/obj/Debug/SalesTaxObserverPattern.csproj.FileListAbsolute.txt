@@ -1,0 +1,6 @@
+c:\users\vbhujan\documents\visual studio 2013\Projects\SalesTaxObserverPattern\SalesTaxObserverPattern\bin\Debug\SalesTaxObserverPattern.exe.config
+c:\users\vbhujan\documents\visual studio 2013\Projects\SalesTaxObserverPattern\SalesTaxObserverPattern\bin\Debug\SalesTaxObserverPattern.exe
+c:\users\vbhujan\documents\visual studio 2013\Projects\SalesTaxObserverPattern\SalesTaxObserverPattern\bin\Debug\SalesTaxObserverPattern.pdb
+c:\users\vbhujan\documents\visual studio 2013\Projects\SalesTaxObserverPattern\SalesTaxObserverPattern\obj\Debug\SalesTaxObserverPattern.csprojResolveAssemblyReference.cache
+c:\users\vbhujan\documents\visual studio 2013\Projects\SalesTaxObserverPattern\SalesTaxObserverPattern\obj\Debug\SalesTaxObserverPattern.exe
+c:\users\vbhujan\documents\visual studio 2013\Projects\SalesTaxObserverPattern\SalesTaxObserverPattern\obj\Debug\SalesTaxObserverPattern.pdb

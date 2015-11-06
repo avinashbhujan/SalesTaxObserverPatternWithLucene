@@ -1,0 +1,16 @@
+C:\Users\vbhujan\Documents\Visual Studio 2013\Projects\SalesTaxObserverPattern\SalesTaxObserverPattern\bin\Debug\SalesTaxObserverPattern.exe.config
+C:\Users\vbhujan\Documents\Visual Studio 2013\Projects\SalesTaxObserverPattern\SalesTaxObserverPattern\bin\Debug\SalesTaxObserverPattern.exe
+C:\Users\vbhujan\Documents\Visual Studio 2013\Projects\SalesTaxObserverPattern\SalesTaxObserverPattern\bin\Debug\SalesTaxObserverPattern.pdb
+C:\Users\vbhujan\Documents\Visual Studio 2013\Projects\SalesTaxObserverPattern\SalesTaxObserverPattern\bin\Debug\BusinessLogicLayer.dll
+C:\Users\vbhujan\Documents\Visual Studio 2013\Projects\SalesTaxObserverPattern\SalesTaxObserverPattern\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\vbhujan\Documents\Visual Studio 2013\Projects\SalesTaxObserverPattern\SalesTaxObserverPattern\obj\Debug\SalesTaxObserverPatternWithLucene.csprojResolveAssemblyReference.cache
+C:\Users\vbhujan\Documents\Visual Studio 2013\Projects\SalesTaxObserverPattern\SalesTaxObserverPattern\obj\Debug\SalesTaxObserverPattern.exe
+C:\Users\vbhujan\Documents\Visual Studio 2013\Projects\SalesTaxObserverPattern\SalesTaxObserverPattern\obj\Debug\SalesTaxObserverPattern.pdb
+C:\Users\vbhujan\Documents\Visual Studio 2015\Projects\SalesTaxObserverPattern\SalesTaxObserverPattern\bin\Debug\SalesTaxObserverPattern.exe.config
+C:\Users\vbhujan\Documents\Visual Studio 2015\Projects\SalesTaxObserverPattern\SalesTaxObserverPattern\obj\Debug\SalesTaxObserverPattern.exe
+C:\Users\vbhujan\Documents\Visual Studio 2015\Projects\SalesTaxObserverPattern\SalesTaxObserverPattern\obj\Debug\SalesTaxObserverPattern.pdb
+C:\Users\vbhujan\Documents\Visual Studio 2015\Projects\SalesTaxObserverPattern\SalesTaxObserverPattern\bin\Debug\SalesTaxObserverPattern.exe
+C:\Users\vbhujan\Documents\Visual Studio 2015\Projects\SalesTaxObserverPattern\SalesTaxObserverPattern\bin\Debug\SalesTaxObserverPattern.pdb
+C:\Users\vbhujan\Documents\Visual Studio 2015\Projects\SalesTaxObserverPattern\SalesTaxObserverPattern\bin\Debug\BusinessLogicLayer.dll
+C:\Users\vbhujan\Documents\Visual Studio 2015\Projects\SalesTaxObserverPattern\SalesTaxObserverPattern\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\vbhujan\Documents\Visual Studio 2015\Projects\SalesTaxObserverPattern\SalesTaxObserverPattern\obj\Debug\SalesTaxObserverPatternWithLucene.csprojResolveAssemblyReference.cache
